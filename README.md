@@ -28,4 +28,4 @@ DEFINITOINS = {
 }
 
 🚀 Запуск
-```python it_terms_bot```
+```python main.py```
